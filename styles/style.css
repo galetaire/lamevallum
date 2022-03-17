@@ -1,0 +1,63 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-shadow:;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 0;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-image: none;
+  background-color: #fff;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+  text-shadow: ;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  text-shadow: 2px 2px 2px lightgrey;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  text-shadow: 2px 2px 2px lightgrey;
+}
+
+footer {
+  font-size: 12px;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+}
